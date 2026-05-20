@@ -1,8 +1,3 @@
-# AI Moderation & Autonomous Staff Platform
-> **Version:** 1.0 | **Target:** Velocity Proxy | **Scale:** 2000–5000+ concurrent players
-> **Author:** eoxyn | **Java:** 21+ | **Date:** 2026-05-17
-
----
 
 ## 1. Full Architecture Design
 
