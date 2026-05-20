@@ -980,5 +980,3 @@ CLOSED ──(failures >= threshold)──▶ OPEN ──(timeout elapsed)──
 | Approval button spam | LOW | MEDIUM | Per-interaction idempotency key |
 
 ---
-
-*End of Architecture Design. Implementation follows.*
